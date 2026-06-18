@@ -12,6 +12,7 @@ public class PerformanceAnalyzerService {
                         subject.getMarks() < 40);
     }
 
+    // boolean method
     public String getGrade(double percentage) {
 
         if (percentage >= 90)
