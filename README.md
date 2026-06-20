@@ -16,7 +16,6 @@ Collections Framework
 Object-Oriented Programming (OOP)
 Input Validation
 Report Generation
-Data Processing
 
 🚀 Features
 
